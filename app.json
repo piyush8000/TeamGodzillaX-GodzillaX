@@ -1,14 +1,14 @@
 {
-  "name": "DaisyX",
+  "name": "GodzillaX",
   "description": "?",
   "keywords": [
     "telegram",
     "Daisy",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-GodzillaX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/TeamDaisyX/DaisyX",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
