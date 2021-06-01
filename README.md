@@ -33,7 +33,7 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/piyush8000/TeamGodzillaX-GodzillaX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/piyush8000/TeamGodzillaX-GodzillaX.git)
 
 
 
