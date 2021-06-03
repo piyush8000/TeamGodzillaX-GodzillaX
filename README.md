@@ -7,41 +7,48 @@
   <a href="https://github.com/piyush8000/TeamGodzillaX-GodzillaX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/1488263e52053b64227c9.jpg
+<p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/1488263e52053b64227c9.jpg"width="400"></a></p>
 
-"width="400"></a></p>
 <p align="center">
+
     <a href="https://app.codacy.com/manual/teamdaisyx/daisyx/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+
     <a href="https://github.com/teamdaisyx/daisyx"> <img src="https://img.shields.io/github/repo-size/teamdaisyx/daisyx?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+
     <a href="https://github.com/teamdaisyx/daisyx/commits/inukaasith"> <img src="https://img.shields.io/github/last-commit/teamdaisyx/daisyx?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+
     <a href="https://github.com/teamdaisyx/daisyx/issues"> <img src="https://img.shields.io/github/issues/teamdaisyx/daisyx?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+
     <a href="https://github.com/teamdaisyx/daisyx/network/members"> <img src="https://img.shields.io/github/forks/teamdaisyx/daisyx?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+
 </p>
 
 > ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
+
 ## Avaiilable on Telegram as [@GodzillaXBot](https://t.me/GodzillaXBot)
 
 # 🧙‍♀️ Deploy Guide
+
 Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=yar61k_hEHQ)](https://www.youtube.com/watch?v=yar61k_hEHQ)
 
 ☆ Video by [ANJANA MADUSHANKA](https://www.youtube.com/channel/UCApXYZNiMdW6UG48-syX7wQ) ☆
 
-
 # 🏃‍♂️ Easy Deploy 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/piyush8000/TeamGodzillaX-GodzillaX.git)
-
-
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ❤️ Support
+
 <a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
