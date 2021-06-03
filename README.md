@@ -43,7 +43,7 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/piyush8000/TeamGodzillaX-GodzillaX.git)
 
-[Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
+[Generate String Session](https://replit.com/@piyush8000/GenerateStringSession#main.py)  << Select telethon
 
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
@@ -84,33 +84,7 @@ $ python(3) -m DaisyX
 [+] The DaisyX won't run without setting the mandatory vars.
 ```
 
-# 😍 Credits
 
- - [Hitsuki](https://github.com/HitsukiNetwork/Hitsukix)
- - [SophieBot](https://gitlab.com/SophieBot/sophie)
- - [Alita_Robot](https://github.com/Divkix/Alita_Robot/)
- - [FridayUserbot](https://github.com/DevsExpo/FridayUserbot)
- - [MissJuliaRobot](https://github.com/MissJuliaRobot/MissJuliaRobot)
- - [DaisyX](https://github.com/teamdaisyx/daisy-x)
- - [ADV-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2)
- - [Image-Editor](https://github.com/TroJanzHEX/Image-Editor/)
- - [Utah](https://github.com/minatouzuki/utah).
- - [WilliamButcherBot](https://github.com/thehamkercat/WilliamButcherBot)
- - [LEGENDX](https://github.com/LEGENDXOP/LEGEND-X)
-
-## Special Credits
-- [SophieBot Devs](https://gitlab.com/SophieBot)
-- [TroJanzHEX](https://github.com/TroJanzHEX)
-- [infotechbro](https://github.com/infotechbro/)
-- [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG)
-- [Amarnath c](https://github.com/Amarnathcdj)
-- [Thehamkercat](https://github.com/thehamkercat)
-- [StarkGang](https://github.com/StarkGang)
-- [chsaiujwal](https://github.com/chsaiujwal)
-- [LEGENDX](https://github.com/LEGENDXOP) 
-- [MissJuliaRobot](https://github.com/MissJuliaRobot) 
-- [HitsukiNetwork](https://github.com/HitsukiNetwork) 
-- [AnimeKaizoku](https://github.com/AnimeKaizoku) 
 - [Dan](https://github.com/delivrance) 
 - [Lonami](https://github.com/Lonami) 
 - [AioGram Project group](https://github.com/aiogram) 
